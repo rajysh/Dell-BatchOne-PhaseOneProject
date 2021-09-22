@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rajesh_b2\\OneDrive - Dell Technologies\\Work\\FSD\\Projects\\PhaseOne\\CSharp Basics\\Dell-BatchOne-PhaseOne-Project\\Dell-BatchOne-PhaseOne-Project\\CSharp_DayOneProjects\\CSharp_DayOneProjects.csproj": {}
+    "C:\\Users\\rajesh_b2\\OneDrive - Dell Technologies\\Work\\FSD\\Projects\\PhaseOne\\CSharp Basics\\Dell-BatchOne-PhaseOne-Project\\CSharp_DayOneProjects\\CSharp_DayOneProjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rajesh_b2\\OneDrive - Dell Technologies\\Work\\FSD\\Projects\\PhaseOne\\CSharp Basics\\Dell-BatchOne-PhaseOne-Project\\Dell-BatchOne-PhaseOne-Project\\CSharp_DayOneProjects\\CSharp_DayOneProjects.csproj": {
+    "C:\\Users\\rajesh_b2\\OneDrive - Dell Technologies\\Work\\FSD\\Projects\\PhaseOne\\CSharp Basics\\Dell-BatchOne-PhaseOne-Project\\CSharp_DayOneProjects\\CSharp_DayOneProjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rajesh_b2\\OneDrive - Dell Technologies\\Work\\FSD\\Projects\\PhaseOne\\CSharp Basics\\Dell-BatchOne-PhaseOne-Project\\Dell-BatchOne-PhaseOne-Project\\CSharp_DayOneProjects\\CSharp_DayOneProjects.csproj",
+        "projectUniqueName": "C:\\Users\\rajesh_b2\\OneDrive - Dell Technologies\\Work\\FSD\\Projects\\PhaseOne\\CSharp Basics\\Dell-BatchOne-PhaseOne-Project\\CSharp_DayOneProjects\\CSharp_DayOneProjects.csproj",
         "projectName": "CSharp_DayOneProjects",
-        "projectPath": "C:\\Users\\rajesh_b2\\OneDrive - Dell Technologies\\Work\\FSD\\Projects\\PhaseOne\\CSharp Basics\\Dell-BatchOne-PhaseOne-Project\\Dell-BatchOne-PhaseOne-Project\\CSharp_DayOneProjects\\CSharp_DayOneProjects.csproj",
+        "projectPath": "C:\\Users\\rajesh_b2\\OneDrive - Dell Technologies\\Work\\FSD\\Projects\\PhaseOne\\CSharp Basics\\Dell-BatchOne-PhaseOne-Project\\CSharp_DayOneProjects\\CSharp_DayOneProjects.csproj",
         "packagesPath": "C:\\Users\\rajesh_b2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rajesh_b2\\OneDrive - Dell Technologies\\Work\\FSD\\Projects\\PhaseOne\\CSharp Basics\\Dell-BatchOne-PhaseOne-Project\\Dell-BatchOne-PhaseOne-Project\\CSharp_DayOneProjects\\obj\\",
+        "outputPath": "C:\\Users\\rajesh_b2\\OneDrive - Dell Technologies\\Work\\FSD\\Projects\\PhaseOne\\CSharp Basics\\Dell-BatchOne-PhaseOne-Project\\CSharp_DayOneProjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
