@@ -1,0 +1,15 @@
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayThree_MarksLibray\bin\Debug\net5.0\CSharp_DayThree_MarksLibray.deps.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayThree_MarksLibray\bin\Debug\net5.0\CSharp_DayThree_MarksLibray.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayThree_MarksLibray\bin\Debug\net5.0\ref\CSharp_DayThree_MarksLibray.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayThree_MarksLibray\bin\Debug\net5.0\CSharp_DayThree_MarksLibray.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayThree_MarksLibray\bin\Debug\net5.0\CSharp_DayThree_StudentLibrary.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayThree_MarksLibray\bin\Debug\net5.0\CSharp_DayThree_StudentLibrary.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayThree_MarksLibray\obj\Debug\net5.0\CSharp_DayThree_MarksLibray.csproj.AssemblyReference.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayThree_MarksLibray\obj\Debug\net5.0\CSharp_DayThree_MarksLibray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayThree_MarksLibray\obj\Debug\net5.0\CSharp_DayThree_MarksLibray.AssemblyInfoInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayThree_MarksLibray\obj\Debug\net5.0\CSharp_DayThree_MarksLibray.AssemblyInfo.cs
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayThree_MarksLibray\obj\Debug\net5.0\CSharp_DayThree_MarksLibray.csproj.CoreCompileInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayThree_MarksLibray\obj\Debug\net5.0\CSharp_DayThree_MarksLibray.csproj.CopyComplete
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayThree_MarksLibray\obj\Debug\net5.0\CSharp_DayThree_MarksLibray.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayThree_MarksLibray\obj\Debug\net5.0\ref\CSharp_DayThree_MarksLibray.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayThree_MarksLibray\obj\Debug\net5.0\CSharp_DayThree_MarksLibray.pdb
