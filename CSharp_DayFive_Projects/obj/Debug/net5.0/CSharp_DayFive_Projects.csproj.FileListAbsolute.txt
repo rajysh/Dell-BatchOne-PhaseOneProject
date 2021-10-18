@@ -1,0 +1,16 @@
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayFive_Projects\bin\Debug\net5.0\CSharp_DayFive_Projects.exe
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayFive_Projects\bin\Debug\net5.0\CSharp_DayFive_Projects.deps.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayFive_Projects\bin\Debug\net5.0\CSharp_DayFive_Projects.runtimeconfig.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayFive_Projects\bin\Debug\net5.0\CSharp_DayFive_Projects.runtimeconfig.dev.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayFive_Projects\bin\Debug\net5.0\CSharp_DayFive_Projects.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayFive_Projects\bin\Debug\net5.0\ref\CSharp_DayFive_Projects.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayFive_Projects\bin\Debug\net5.0\CSharp_DayFive_Projects.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayFive_Projects\obj\Debug\net5.0\CSharp_DayFive_Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayFive_Projects\obj\Debug\net5.0\CSharp_DayFive_Projects.AssemblyInfoInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayFive_Projects\obj\Debug\net5.0\CSharp_DayFive_Projects.AssemblyInfo.cs
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayFive_Projects\obj\Debug\net5.0\CSharp_DayFive_Projects.csproj.CoreCompileInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayFive_Projects\obj\Debug\net5.0\CSharp_DayFive_Projects.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayFive_Projects\obj\Debug\net5.0\ref\CSharp_DayFive_Projects.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayFive_Projects\obj\Debug\net5.0\CSharp_DayFive_Projects.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayFive_Projects\obj\Debug\net5.0\CSharp_DayFive_Projects.genruntimeconfig.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseOne\CSharp Basics\Dell-BatchOne-PhaseOne-Project\CSharp_DayFive_Projects\obj\Debug\net5.0\CSharp_DayFive_Projects.csproj.AssemblyReference.cache

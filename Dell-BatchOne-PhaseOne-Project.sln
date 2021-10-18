@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31624.102
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_DayTwo_Projects", "CSharp_DayTwo_Projects\CSharp_DayTwo_Projects.csproj", "{90C4161E-2237-498C-A45A-9B8355DB8798}"
 EndProject
@@ -21,8 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_DayFour_Projects", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8A06D5B3-86E0-49BE-A7B3-FAED38E3694F}"
 	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
 		Notes\Notes.txt = Notes\Notes.txt
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_DayFive_Projects", "CSharp_DayFive_Projects\CSharp_DayFive_Projects.csproj", "{B5DA0F2E-DAD0-41E2-BA71-FB8A9CFCF0A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +65,10 @@ Global
 		{6E338E0D-2EDD-43DC-812E-749DBC87E942}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E338E0D-2EDD-43DC-812E-749DBC87E942}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E338E0D-2EDD-43DC-812E-749DBC87E942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5DA0F2E-DAD0-41E2-BA71-FB8A9CFCF0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DA0F2E-DAD0-41E2-BA71-FB8A9CFCF0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DA0F2E-DAD0-41E2-BA71-FB8A9CFCF0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DA0F2E-DAD0-41E2-BA71-FB8A9CFCF0A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
