@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xBygdu25MKhP/p1Je7RN+kjE8+dd91FnWENG6UdScsuqlm+zYGoNtt33FVTaJoUiUB/H/ZcZa4mKb7P/bJJlZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajesh_b2\\OneDrive - Dell Technologies\\Work\\FSD\\Projects\\PhaseOne\\CSharp Basics\\Dell-BatchOne-PhaseOne-Project\\CSharp_DaySeven_Misc_Projects\\CSharp_DaySeven_Misc_Projects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajesh_b2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

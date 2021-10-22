@@ -30,7 +30,17 @@
       "ProjectGuid": "26cd17c4-043b-4993-9bea-d9b816651ec4",
       "DisplayName": "CSharp_DaySix_Misc_Projects",
       "ColorIndex": 4
+    },
+    "6d880dea-0e4f-4539-9e6f-1f021c200bf7": {
+      "ProjectGuid": "6d880dea-0e4f-4539-9e6f-1f021c200bf7",
+      "DisplayName": "CSharp_DaySeven_Misc_Projects",
+      "ColorIndex": 5
+    },
+    "c7bde856-053c-4e89-b780-89304e8a1601": {
+      "ProjectGuid": "c7bde856-053c-4e89-b780-89304e8a1601",
+      "DisplayName": "CSharp_DayOneProjects",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }
